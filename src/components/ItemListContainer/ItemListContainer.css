@@ -1,0 +1,8 @@
+.divItem {
+    display: grid;
+    place-items: center;
+   height: 100vh;
+   font-size: smaller;
+   color: grey;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
